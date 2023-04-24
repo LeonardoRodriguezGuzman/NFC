@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="seleccionar">Seleccionar</string>
+    <string name="compartir">Compartir</string>
+    <string name="imgvw">ImageView</string>
+    <string name="recibir">Recibir</string>
+</resources>
